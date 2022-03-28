@@ -1,0 +1,7 @@
+C:\tools_work\DownloadHabbo\SourceCode\bin\Debug\Habbo_Downloader.exe.config
+C:\tools_work\DownloadHabbo\SourceCode\bin\Debug\Habbo_Downloader.exe
+C:\tools_work\DownloadHabbo\SourceCode\bin\Debug\Habbo_Downloader.pdb
+C:\tools_work\DownloadHabbo\SourceCode\obj\Debug\Habbo_Downloader.csproj.AssemblyReference.cache
+C:\tools_work\DownloadHabbo\SourceCode\obj\Debug\Habbo_Downloader.csproj.CoreCompileInputs.cache
+C:\tools_work\DownloadHabbo\SourceCode\obj\Debug\Habbo_Downloader.exe
+C:\tools_work\DownloadHabbo\SourceCode\obj\Debug\Habbo_Downloader.pdb
